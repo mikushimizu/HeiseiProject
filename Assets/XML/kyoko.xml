@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xml:lang="ja">
+  <channel>
+    <title>虚構新聞社（Kyoko Shimbun News）</title>
+    <atom:link href="http://kyoko-np.net/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://kyoko-np.net/</link>
+    <language>ja</language>
+    <description>虚構報道専門のニュースサイト「虚構新聞」です。</description>
+    <dc:creator>UK</dc:creator>
+    <image>
+      <title>虚構新聞社（Kyoko Shimbun News）</title>
+      <link>http://kyoko-np.net/</link>
+      <url>http://kyoko-np.net/images/kyoko.gif</url>
+    </image>
+
+    <item>
+      <title>ストレス緩和効果も　全エスケープキーボード発売</title>
+      <link>http://kyoko-np.net/2019042501.html</link>
+      <description>　ＩＴベンチャーのＪＣＮ研究所は２４日、盤上の全てのキーがＥｓｃ（エスケープ）キーになったパソコン用キーボード「グレートエスケープ」を発売した。システムエンジニア（ＳＥ）や経理職など日常業務でパソコンを多用する職種でのストレス緩和が期待できるという。　キーボード最上段左上に...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>大型連休、０泊１０日も　仕事中毒者向け「労働ツアー」に脚光</title>
+      <link>http://kyoko-np.net/2019042201.html</link>
+      <description>　最大で１０連休になる今年の大型連休。長期ツアーへの申し込みが相次ぐ中、休暇中も働きたくて仕方がない仕事中毒者を対象にした「労働ツアー」が脚光を浴びつつある。　都内の旅行代理店ニコニコツアーズでは、大型連休に向けて「はたらくホリデー９泊１０日ツアー」の受け付けを３月から始めた。...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「２０４９年、日本だけ氷河期」予測　就職問題でＡＩ誤作動？</title>
+      <link>http://kyoko-np.net/2019041701.html</link>
+      <description>　３０年後の２０４９年、世界的な温暖化傾向とは逆に日本のみ平均気温が３０度下がる――。こんな結果を東京気象研究センター（千葉）が１６日、公表した。ＡＩ（人工知能）を使ったシステムでシミュレーションを行ったという。　降水量や二酸化炭素濃度などの気象データだけでなく、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>１歳児お手柄、連続ひったくり犯逮捕　似顔絵決め手　東京</title>
+      <link>http://kyoko-np.net/2019041501.html</link>
+      <description>　新世田谷中央署は１４日、東京都内で相次いでいた連続ひったくり事件の容疑者として指名手配していた自称無職の男（４８）を窃盗の疑いで逮捕した。目撃した女の子（１）の似顔絵を見た住民からの１１０番通報で居場所が判明した。　逮捕容疑は３月２７日午後３時１７分ごろ、世田谷区内の路上で...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>ホワイトホール内部撮影も成功　ブラックホールに続き　千葉電波大</title>
+      <link>http://kyoko-np.net/2019041101.html</link>
+      <description>　千葉電波大学理学部の研究グループは１１日、ホワイトホール内部の撮影に世界で初めて成功したと発表し、写真を公開した。直前の１１日未明にはブラックホール内部の写真も公開。連日の歴史的快挙に大きな注目が集まりそうだ。　光も逃れられないほど大きな重力を持つブラックホールによって...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>子供銀行に早朝から預金者殺到　紙幣刷新報道受け</title>
+      <link>http://kyoko-np.net/2019040901.html</link>
+      <description>　政府が１万円札など紙幣の肖像画を変更する準備に入ったとの報道を受け、全国の子供銀行各支店には営業前の早朝から預金者らが殺到している。「現行の子供銀行券が使えなくなるのではないか」という信用不安が背景にありそうだ。　９日未明、紙幣の肖像画が刷新されると各社が一斉に報じた。報道に...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>豆本サイズの教科書登場　通学の重さ負担軽減へ</title>
+      <link>http://kyoko-np.net/2019040801.html</link>
+      <description>　小中学生が通学で持ち運ぶ荷物の重さが問題となる中、教科書出版の勤墾館が販売を始めた豆本教科書「小さい教科書」シリーズに注目が集まっている。今年度から一部の公立校で採用。児童からは「ランドセルが軽くなった」と喜ぶ声も聞かれた。　文部科学省の「脱ゆとり教育」に合わせ、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>那波里珈琲、エスプレッソを１ｍＬに減量　価格は据え置き</title>
+      <link>http://kyoko-np.net/2019040501.html</link>
+      <description>　コーヒーチェーンの那波里珈琲は４日、主力商品のエスプレッソ（Ｍサイズ）を１３日から１ｍＬ（ミリリットル）に減量すると発表した。価格は３００円のまま据え置く。これまでＭサイズは２５ミリリットルだった。　Ｌサイズ、Ｓサイズも価格は変えず、２ｍＬ（現行６０ｍＬ・４００円）、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>サヨナラ安久　没元号グッズ処分セール始まる</title>
+      <link>http://kyoko-np.net/2019040201.html</link>
+      <description>　新しい元号が「令和（れいわ）」に決まったことを受け、メーカー各社が新元号需要を当て込んでフライング製造した「安久」など没元号を冠した商品の在庫処分セールが全国各地で始まった。　中堅百貨店の八越デパートでは、今朝から８階催事場で「平成最後の没元号品大処分市」を始めた。事前予想で...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>春の歯ごたえ　タケノコくり抜き最盛期　京都</title>
+      <link>http://kyoko-np.net/2019032901.html</link>
+      <description>　京都府黄桜町で特産品「黄桜タケノコ」のくり抜き作業が最盛期を迎えている。薄く層が残るように中をくり抜くことで、タケノコ独特の歯ごたえが生まれるという。　電球のフィラメントの材料として使われたことで知られる黄桜町の竹は、春の味覚「黄桜タケノコ」としても知られる。同町内で...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>就活サイトに「神」降臨　お祈りメール大量送信で</title>
+      <link>http://kyoko-np.net/2019032501.html</link>
+      <description>　就職情報サイト「クビナビ」を運営するクビナビは２４日、同サイト上に神が降臨したと発表した。登録企業が「お祈りメール」を大量送信したためとしている。　発表によると、降臨があったのは２２日午後２時４分ごろ。サイトに接続すると、ヘンデルの「メサイア」が流れるとともに、画面全体が...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「専用列から優先昇天」天国、有料ファストパス導入を発表　</title>
+      <link>http://kyoko-np.net/2019032101.html</link>
+      <description>　天国は２０日、有料で優先的に入場できる「ファストパス」を今後５年以内に導入すると発表した。優先入場券を販売することで少ない待ち時間で入場できるようになるという。人口爆発で入場希望者が殺到していることから導入に踏み切った。　天国では、世界中から毎年約２千万人ほどが入場を求めて...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「未亡人です。遺産５千億円使って」一面広告掲載　出稿者に聞く</title>
+      <link>http://kyoko-np.net/2019031801.html</link>
+      <description>　主人が残した遺産５千億円が使い切れないので、どなたか使っていただけませんか――。１０日付の主要全国紙にこんな一面広告が載った。広告にはどんな意図があったのか。出稿した女性に話を聞いた。　広告を出稿したのは、都内に住む３０代の女性。１０年前に男性実業家と結婚したが、その５年後、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「地球が何回回った時？」も即答　日本製ＡＩ、電脳口論で優勝</title>
+      <link>http://kyoko-np.net/2019031401.html</link>
+      <description>　人工知能（ＡＩ）を利用した口論ソフトの世界一を決める第１回世界電脳口論選手権の決勝トーナメントが１３日、千葉電波大学で開かれ、宣華大学（東京）の口論ソフト「スーパーＰＩ（ピー）」が優勝した。　２月に米国で行われた年次イベント「ＩＢＭ　Ｔｈｉｎｋ　２０１９」では、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>カラス、エレベーター開閉ボタンを一発で認識　出雲産大</title>
+      <link>http://kyoko-np.net/2019031101.html</link>
+      <description>　カラスはエレベーターのドアの開閉ボタンを１回で認識できる――。こんな結果が出雲産業大学理学部（島根県）の研究でわかった。カラスの高い知性を改めて裏付ける成果になりそうだ。　カラスは石や小枝などの道具を使って虫を捕まえたり、クルミのような硬い殻で覆われた木の実を車道に落として車...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>ＩＴ政策専従「注文をまちがえる庁」、今春立ち上げ検討</title>
+      <link>http://kyoko-np.net/2019030701.html</link>
+      <description>　ＩＴ政策に対する国民からの注文と、実際に提示された施策の間に不一致が多く見られるとして、不一致政策を一元的に扱う「注文をまちがえる庁（仮称）」を政府が今春にも立ち上げる検討に入っていることが、６日までにわかった。　インターネット上の著作物の権利保護を訴えた結果、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「富の地球離れ」加速　超富豪１００人の資産管理会社、月面に</title>
+      <link>http://kyoko-np.net/2019030401.html</link>
+      <description>　世界の最富裕層１００人でつくる「ザ・リッチ１００」の会員が保有する資産約２００兆円を管理する会社のビルが月の裏側に存在することが、４日までにわかった。各国の徴税権が及ばない月に資産を移して、租税を回避することが狙いとみられる。今後、他の富裕層にも門戸を広げる意向で、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>卒業式練習の経済損失、年間６兆円　シンクタンク試算</title>
+      <link>http://kyoko-np.net/2019022801.html</link>
+      <description>　民間シンクタンクの諸類総研は２７日、全国の小中高校で行われる卒業式の準備や予行による経済損失が、年間約６兆円に達するとの試算を発表した。日本の国内総生産（ＧＤＰ）の１％に相当する金額を毎年失っている計算だ。　諸類総研が２７日に発表した「卒業式の経済効果に関する研究報告書」に...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「日金火水木月土」　月曜の憂鬱和らげる新カレンダー試作</title>
+      <link>http://kyoko-np.net/2019022501.html</link>
+      <description>　企業経営者や経済学者らでつくる能率経営研究会は２４日、月曜日特有の憂鬱症状を改善するため、月曜日と金曜日を入れ変えるなどの工夫を凝らした「憂鬱軽減カレンダー」の試作品を公開した。　日曜日の夕方ごろになると、翌月曜日に通学や出勤を控えた学生や会社員の気分が急激に落ち込む現象は...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「国際社会に不確定性導入」　トランプ氏、ノーベル物理学賞候補に</title>
+      <link>http://kyoko-np.net/2019021901.html</link>
+      <description>　トランプ米大統領が、ノーベル物理学賞の候補として挙がっていることが１８日までにわかった。授賞理由となる業績は「国際社会への不確定性概念の導入」とみられている。　スウェーデンの複数の関係者が明らかにした。トランプ氏は就任以来、環太平洋経済連携協定（ＴＰＰ）、パリ協定、ユネスコ、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>ナマケモノ、「ヤレバデキルモノ」に改名提案　日本ナマケモノ学会</title>
+      <link>http://kyoko-np.net/2019021501.html</link>
+      <description>　全国のナマケモノの専門家でつくる日本ナマケモノ学会は１４日、ナマケモノの和名を「ヤレバデキルモノ」に変更するよう求める議案を採択した。今後国内外の学会に向けて、名称の変更を働きかける方針だ。　南米を生息地とするナマケモノは、体長６０センチほど。動きが遅いうえ、日中は...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「マーク塗れれば合格」の汚名に反撃　衛府嵐大学、全員不合格に</title>
+      <link>http://kyoko-np.net/2019021201.html</link>
+      <description>　衛府嵐大学（京都府）は１１日、「マークシートの記入が不十分」として、４日に実施した文・法・経済学部の一般入試を受験した４１人全員を不合格にしたと発表した。「マーク欄をしっかり塗れていない場合は０点とした」と説明している。　受験生全員が不合格になったのは、同大が４日に...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「玄孫の手」、４００年の歴史に幕　少子・晩婚化余波　京都</title>
+      <link>http://kyoko-np.net/2019020701.html</link>
+      <description>　かゆい背中をかくときに使う、京都府黄桜町の名産品「玄孫（やしゃご）の手」の製造が今月末に終わりを迎える。江戸時代から約４００年、庶民に愛された民芸品は、近年の少子化や晩婚化によってその歴史的役割を終えたとの見方もある。　背中をかく道具として最もよく知られているのは「孫の手」だ...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>恵方巻きリサイクル法案、今国会に提出へ　「エコ巻き」普及目指す</title>
+      <link>http://kyoko-np.net/2019020301.html</link>
+      <description>　超党派でつくる恵方巻き廃棄問題対策議連は２日、売れ残った節分の恵方巻きを、来年の恵方巻きの材料としてリサイクルすることを義務付ける法案をまとめた。今国会で提案し、成立を目指す。　節分に恵方を向いて食べると縁起が良いとされる「恵方巻き」は、本来関西のみで...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「２００年後、ネコが地球の支配者に」スパコン予測　千葉電波大</title>
+      <link>http://kyoko-np.net/2019020101.html</link>
+      <description>　２００年後にはネコが人間を淘汰し、地球を支配する――。千葉電波大学工学部のスーパーコンピューターが、こんなシミュレーション結果をはじき出した。研究結果は英科学誌「フェノメノン」バレンタイン直前号に掲載される。　千葉電波大の研究グループは昨年８月から、スパコンを使った実験を開始...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+    <item>
+      <title>「ふいんき」新字採用で正式語に昇格へ　検討委方針</title>
+      <link>http://kyoko-np.net/2019012901.html</link>
+      <description>　文部科学省の諮問機関である国語検討委員会は２８日、雰囲気（ふんいき）の読み誤り「ふいんき」に新しい漢字を当てることで、正式な言葉として認める方針を固めた。　委員会が１８年に行った国語力調査によると、雰囲気を「ふいんき」と読んだ人は３４．２％で、...
+      </description>
+      <dc:creator>UK</dc:creator>
+    </item>
+
+  </channel>
+</rss>
